@@ -1,0 +1,63 @@
+body{
+    background-color: aquamarine;
+
+}
+*
+{
+    margin:0%;
+    padding: 0%;
+    
+}
+h1{
+    margin-top: 5%;
+    margin-left: 27%;
+    font-size: 55px;
+
+}
+.box
+{
+    height: 150px;
+    width: 550px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    padding-top: 45px;
+    padding-left: 100px;
+   background-color:rgb(93, 234, 234);
+   margin-top: 5%;
+   margin-left: 25%;
+}
+.but1{
+    height: 29px;
+    
+}
+.but2{
+    height: 35px;
+    margin-left: 10%;
+}
+#submit
+{
+    padding: 8px 28px;
+    margin-left: 25%;
+    margin-top: 3%;
+    background-color: rgb(25, 113, 186);
+    font-size: 15px;
+    font-weight: 600;
+    transition: font-size 1s;
+}
+#submit:hover{
+    background-color: white;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+#result
+
+{
+    display: block;
+            margin-top: 15px;
+            font-size: 28px;
+            font-weight: 900;
+            text-align: center;
+            color: #333;
+}
